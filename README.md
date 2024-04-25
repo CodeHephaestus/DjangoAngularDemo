@@ -1,2 +1,2 @@
 # DjangoAngularDemo
-Demo showcasing implementation between Django and Angular
+Demo showcasing implementation of Django with Angular
